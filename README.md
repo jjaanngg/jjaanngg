@@ -9,12 +9,12 @@
   I was first introduced to programming in middle school through a visual coding platform called Entry.
   What began as a simple classroom activity quickly sparked a deeper curiosity. I want to understand what was behind the blocks, how they worked, and what made them possible.  
   
-  That early curiosity ha grown into a long-standing passion for software development.
+  That early curiosity has grown into a long-standing passion for software development.
   
   Today, I'm working toward becoming a full-stack developer who knows how to integrate AI where it matters most to build more efficient, maintainable, and meaningful systems.  
   
-  From exploring basic logic to understanding real world architecture, I've always tried to go one step deeper.
-  I believe in writing code that not only works but also lasts. And I'm excied to keep growing through hands-on experience and constant learning.
+  From exploring basic logic to understanding real-world architecture, I've always aimed to go one step deeper.
+  I believe in writing code that not only works but also lasts. And I'm excited to keep growing through hands-on experience and constant learning.
 
   <br/>
    <div style="text-align: left;">
@@ -57,7 +57,7 @@
 
   ### Expotential
   
-  Full-time Memeber | 2025.4 - Current
+  Full-time Member | 2025.4 - Current
   - Participated in multiple company projects, including roles in planning, research, and real-time team leader (initially led but later stepped back from the role)
   - Supported an internal employee's Toeic Speaking exam preparation, resulting in measurable performance improvemnet
   - Contributed to academic preparation initiatives by designing mock test sets for university-level Probability & Statistics and Computer Architecture subjects
