@@ -1,8 +1,21 @@
-<div align="center">
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jangwon%20Lee&fontSize=90" />
 
-  # 🧑‍💻 Jangwon Lee
+  ---
+
+  ## Hi, I'm Jangwon Lee, a developer who values freedom, creativity, and the joy of building what truly matters.
+
+  I was first introduced to programming in middle school through a visual coding platform called Entry.
+  What began as a simple classroom activity quickly sparked a deeper curiosity. I want to understand what was behind the blocks, how they worked, and what made them possible.  
   
+  That early curiosity ha grown into a long-standing passion for software development.
   
+  Today, I'm working toward becoming a full-stack developer who knows how to integrate AI where it matters most to build more efficient, maintainable, and meaningful systems.  
+  
+  From exploring basic logic to understanding real world architecture, I've always tried to go one step deeper.
+  I believe in writing code that not only works but also lasts. And I'm excied to keep growing through hands-on experience and constant learning.
+
+  ---
 
   ### 🏅 Baekjoon Stats
   <a href="https://solved.ac/jw19">
@@ -24,21 +37,10 @@
 
   ---
 
-  ### 🌐 Blog & SNS
-  <div>
-    <a href="https://manor-1.tistory.com">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/lee._.jangwon">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="[https://www.notion.so/](https://www.notion.so/175baeee09d480b58b89dfb6dc1bce54?pvs=4)">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    </a>
-    <a href="https://slack.com/">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-    </a>
-  </div>
+  ###
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaanngg)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjaanngg)](https://github.com/anuraghazra/github-readme-stats)
 
   ---
 
@@ -52,7 +54,5 @@
 
   ---
 
-  ### 🍽 Custom Badge
-  <img src="https://img.shields.io/badge/맛집_탐방러-FF6347?style=for-the-badge&logo=ubereats&logoColor=white"/>
 
 </div>
