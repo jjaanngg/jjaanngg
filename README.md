@@ -1,6 +1,6 @@
 <div>
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jangwon%20Lee&fontSize=90" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jangwon%20Lee&fontSize=70" 
     width="100%"
   />
   
@@ -18,7 +18,7 @@
 
   <br/>
    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Skills </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🍀 Skills </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
@@ -37,13 +37,13 @@
     <br/>
 
 
-  ## Education
+  ## 🍀 Education
   Undergraduate, Software Science, Dankook University (Mar 2024 - Present)
   
 
   <br/>
 
-  ## Experience
+  ## 🍀 Experience
   ### SWAG Club - Software Department, Dankook University
   
   Executive Member - Operating Team | Mar 2024 - Jun 2025
@@ -64,7 +64,7 @@
 
   <br/>
 
-  ## Projects
+  ## 🍀 Projects
   | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
 | **Farm Subscription Manager** | A farm subscription and crop management system using Firebase Realtime Database. | Firebase schema design | May 2025         |
@@ -74,7 +74,7 @@
 
   <br/>
 
-  ## Problem Solving Platform
+  ## 🍀 Problem Solving Platform
   [Baekjoon] (https://www.acmicpc.net/user/jw19)
   
   [solved.ac] (https://solved.ac/profile/jw19)
@@ -86,7 +86,7 @@
   <br/>
 
 
-  ### GitHub & Baekjoon Stats
+  ## 🍀 GitHub & Baekjoon Stats
    <table>
   <tr>
     <td>
@@ -102,7 +102,7 @@
 <br/>
 
  <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Collaboration </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Collaboration </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
