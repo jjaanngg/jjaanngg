@@ -6,15 +6,13 @@
   
   ## Hi, I'm Jangwon Lee, a developer who values freedom, creativity, and the joy of building what truly matters.  
 
-  I was first introduced to programming in middle school through a visual coding platform called Entry.
-  What began as a simple classroom activity quickly sparked a deeper curiosity. I want to understand what was behind the blocks, how they worked, and what made them possible.  
-  
-  That early curiosity has grown into a long-standing passion for software development.
-  
-  Today, I'm working toward becoming a full-stack developer who knows how to integrate AI where it matters most to build more efficient, maintainable, and meaningful systems.  
-  
-  From exploring basic logic to understanding real-world architecture, I've always aimed to go one step deeper.
-  I believe in writing code that not only works but also lasts. And I'm excited to keep growing through hands-on experience and constant learning.
+  I was first introduced to programming in middle school through a visual coding platform called Entry. What began as a simple classroom activity quickly sparked a deeper curiosity about how things worked behind the scenes—how blocks became logic, and how that logic turned into something real.
+
+Since then, I’ve pursued software development with a passion for both the craft and the impact it can have. I feel a deep sense of fulfillment when someone uses a program I’ve built, and even more so when they offer feedback—because every interaction is a chance to iterate, improve, and grow.
+
+I especially enjoy the development process itself: building something from scratch, refining it through real-world use, and making it better with each version. This continuous cycle of problem-solving is what drives me.
+
+Today, I'm working toward becoming a full-stack developer who can integrate AI where it matters most—to build systems that are not only efficient and maintainable, but meaningful. From exploring basic logic to understanding real-world architecture, I always aim to go one step deeper. I believe in writing code that not only works, but endures. And I’m excited to keep learning through hands-on experience and thoughtful iteration.
 
   <br/>
    <div style="text-align: left;">
@@ -43,10 +41,8 @@
 
   <br/>
 
-  ## 🍀 Experience
-  ### SWAG Club - Software Department, Dankook University
-  
-  Executive Member - Operating Team | Mar 2024 - Jun 2025
+  ## 🍀 Experience 
+  ### Executive Member - Operating Team in Software & Algorithm Club(SWAG) | Mar 2024 - Jun 2025
   - Led weekly Data Structure seminars by preparing materials and mentoring one assigned group of members
   - Designed and delivered Session 2 content for the Programming Track(basic language level) focused on language fundamentals
   - Planned and assisted in major events including club orientation, final review sessions, and survey management (Google Forms)
@@ -55,9 +51,7 @@
 
   <br/>
 
-  ### Expotential
-  
-  Full-time Member | Apr 2025 - Current
+  ### Full-time Member in Expotential | Apr 2025 - Current
   - Participated in multiple company projects, including roles in planning, research, and real-time team leader (initially led but later stepped back from the role)
   - Supported an internal employee's Toeic Speaking exam preparation, resulting in measurable performance improvemnet
   - Contributed to academic preparation initiatives by designing mock test sets for university-level Probability & Statistics and Computer Architecture subjects
