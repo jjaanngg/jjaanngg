@@ -46,7 +46,7 @@
   ## Experience
   ### SWAG Club - Software Department, Dankook University
   
-  Executive Member - Operating Team | 2024.3 - 2025.6
+  Executive Member - Operating Team | Mar 2024 - Jun 2025
   - Led weekly Data Structure seminars by preparing materials and mentoring one assigned group of members
   - Designed and delivered Session 2 content for the Programming Track(basic language level) focused on language fundamentals
   - Planned and assisted in major events including club orientation, final review sessions, and survey management (Google Forms)
@@ -57,10 +57,19 @@
 
   ### Expotential
   
-  Full-time Member | 2025.4 - Current
+  Full-time Member | Apr 2025 - Current
   - Participated in multiple company projects, including roles in planning, research, and real-time team leader (initially led but later stepped back from the role)
   - Supported an internal employee's Toeic Speaking exam preparation, resulting in measurable performance improvemnet
   - Contributed to academic preparation initiatives by designing mock test sets for university-level Probability & Statistics and Computer Architecture subjects
+
+  <br/>
+
+  ## Projects
+  | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
+| **Farm Subscription Manager** | A farm subscription and crop management system using Firebase Realtime Database. | Firebase schema design | May 2025         |
+| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Selenium. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
+| **Task Manager**                 | Java-based member and work management system with DTO pattern, JDBC integration, and HTML/JS frontend. Allows user registration and work display through RESTful endpoints.                    | Backend & frontend development             | Apr 2025 – Jun 2025 |
 
 
   <br/>
