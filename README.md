@@ -4,39 +4,26 @@
     width="100%"
   />
   
-  ## Hi, I'm Jangwon Lee, a developer who values freedom, creativity, and the joy of building what truly matters.  
+  ## Hi, I'm Jangwon Lee, a developer who values propulsive force, thoroughness, and the joy of building what truly matters.
 
   I was first introduced to programming in middle school through a visual coding platform called Entry. What began as a simple classroom activity quickly sparked a deeper curiosity about how things worked behind the scenes—how blocks became logic, and how that logic turned into something real.
 
-Since then, I’ve pursued software development with a passion for both the craft and the impact it can have. I feel a deep sense of fulfillment when someone uses a program I’ve built, and even more so when they offer feedback—because every interaction is a chance to iterate, improve, and grow.
+Since then, I’ve pursued software development with both meticulous attention to detail and a strong sense of responsibility. I’m not someone who skims over things—I dive deep, verify thoroughly, and make sure every step is solid before moving on.
 
-I especially enjoy the development process itself: building something from scratch, refining it through real-world use, and making it better with each version. This continuous cycle of problem-solving is what drives me.
+What drives me most is the process of building and leading—from structuring a project from scratch to keeping everything and everyone on track. Whether I’m collaborating or leading a team, I actively step up to coordinate, align, and ensure no one is left behind. While many shy away from the pressure of leading, I find energy in it. I enjoy taking ownership, supporting my teammates, and balancing both momentum and stability in any project.
 
-Today, I'm working toward becoming a full-stack developer who can integrate AI where it matters most—to build systems that are not only efficient and maintainable, but meaningful. From exploring basic logic to understanding real-world architecture, I always aim to go one step deeper. I believe in writing code that not only works, but endures. And I’m excited to keep learning through hands-on experience and thoughtful iteration.
+Today, I'm working toward becoming a full-stack developer who can integrate AI where it matters most—to build systems that are not only efficient and maintainable, but meaningful. From exploring basic logic to understanding real-world architecture, I always aim to go one step deeper. I believe in writing code that not only works, but endures. And I’m excited to keep learning through hands-on experience.
 
   <br/>
    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🍀 Skills </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          </div>
-    </div>
-    <br/>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🍀 Skills </h2>
 
-
-  ## 🍀 Education
-  Undergraduate, Software Science, Dankook University (Mar 2024 - Present)
+| Area                  | Technologies                                            | Proficiency         |
+|-----------------------|---------------------------------------------------------|---------------------|
+| Programming Languages | Python, C++, JavaScript, Java, C#   | Beginner |
+| Frontend              | React, HTML5                | Beginner         |
+| Backend               | Express.js, MongoDB, MariaDB, Firebase, MySQL                 | Beginner         |
+| Tools & Platforms     | Git, GitHub, Markdown      | Beginner         |
   
 
   <br/>
@@ -45,14 +32,13 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
   ### Executive Member - Operating Team in Software & Algorithm Club(SWAG) | Mar 2024 - Jun 2025
   - Led weekly Data Structure seminars by preparing materials and mentoring one assigned group of members
   - Designed and delivered Session 2 content for the Programming Track(basic language level) focused on language fundamentals
-  - Planned and assisted in major events including club orientation, final review sessions, and survey management (Google Forms)
-  - Created and managed the official Notion page for the 3rd cohort
+  - Created and managed the official Notion page for the 3rd generation
   - Participated in club branding by designing stickers and assisting with event operations
 
   <br/>
 
   ### Full-time Member in Expotential | Apr 2025 - Current
-  - Participated in multiple company projects, including roles in planning, research, and real-time team leader (initially led but later stepped back from the role)
+  - Participated in multiple company projects, including roles in planning, research, and real-time team leader for about a month
   - Supported an internal employee's Toeic Speaking exam preparation, resulting in measurable performance improvemnet
   - Contributed to academic preparation initiatives by designing mock test sets for university-level Probability & Statistics and Computer Architecture subjects
 
@@ -61,10 +47,14 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
   ## 🍀 Projects
   | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
-| **Farm Subscription Manager** | A farm subscription and crop management system using Firebase Realtime Database. | Firebase schema design | May 2025         |
-| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Selenium. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
+| **Farm Subscription Manager** | A farm subscription and crop management system. Designed and implemented a data management system for tracking subscription information of individual farmers. Utilized **Firebase Realtime Database** to store and synchronize subscriber data in real-time across devices. | Firebase schema design | May 2025         |
+| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Chrome Selenium with Python and MongoDB. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
 | **Task Manager**                 | Java-based member and work management system with DTO pattern, JDBC integration, and HTML/JS frontend. Allows user registration and work display through RESTful endpoints.                    | Backend & frontend development             | Apr 2025 – Jun 2025 |
 
+  <br/>
+
+  ## 🍀 Education
+  Undergraduate, Software Science, Dankook University (Mar 2024 - Present)
 
   <br/>
 
