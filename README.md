@@ -51,9 +51,9 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
   ## 🍀 Projects
   | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
-| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Chrome Selenium with Python and MongoDB. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
 | **Farm Subscription Manager** | A farm subscription and crop management system. Designed and implemented a data management system for tracking subscription information of individual farmers. Utilized **Firebase Realtime Database** to store and synchronize subscriber data in real-time across devices. | Firebase schema design | May 2025         |
 | **Task Manager**                 | Java-based member and work management system with DTO pattern, JDBC integration, and HTML/JS frontend. Allows user registration and work display through RESTful endpoints.                    | Backend & frontend development             | Apr 2025 – Jun 2025 |
+| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Chrome Selenium with Python and MongoDB. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
 
   <br/>
 
