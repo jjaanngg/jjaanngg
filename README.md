@@ -1,14 +1,16 @@
 <div>
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jangwon%20Lee&fontSize=70" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Jangwon%20Lee&fontSize=65" 
     width="100%"
   />
+
   
   ## Hi, I'm Jangwon Lee, a full-stack developer who values **three things**:
   1. **Always moving forward**
   2. **Getting the details right**
   3. **Finding joy in building what truly matters**
 <br/>
+
 
   I was first introduced to programming in middle school through a visual coding platform called Entry. What began as a simple classroom activity quickly sparked a deeper curiosity about how things worked behind the scenes—how blocks became logic, and how that logic turned into something real.
 
@@ -32,6 +34,15 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
 
   <br/>
 
+  ## 🍀 Projects
+  | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
+| **Farm Subscription Platform** | A farm subscription and crop management system. Designed and implemented a data management system for tracking subscription information of individual farmers. Utilized **Firebase Realtime Database** to store and synchronize subscriber data in real-time across devices. | Firebase schema design | May 2025         |
+| **Task Manager**                 | Java-based member and work management system with DTO pattern, JDBC integration, and HTML/JS frontend. Allows user registration and work display through RESTful endpoints.                    | Backend & frontend development             | Apr 2025 – Jun 2025 |
+| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Chrome Selenium with Python and MongoDB. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
+
+<br/>
+
   ## 🍀 Experience 
   ### Executive Member - Operating Team in Software & Algorithm Club(SWAG) | Mar 2024 - Jun 2025
   - Led weekly Data Structure seminars by preparing materials and mentoring one assigned group of members
@@ -46,14 +57,6 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
   - Supported an internal employee's Toeic Speaking exam preparation, resulting in measurable performance improvemnet
   - Contributed to academic preparation initiatives by designing mock test sets for university-level Probability & Statistics and Computer Architecture subjects
 
-  <br/>
-
-  ## 🍀 Projects
-  | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
-| **Farm Subscription Platform** | A farm subscription and crop management system. Designed and implemented a data management system for tracking subscription information of individual farmers. Utilized **Firebase Realtime Database** to store and synchronize subscriber data in real-time across devices. | Firebase schema design | May 2025         |
-| **Task Manager**                 | Java-based member and work management system with DTO pattern, JDBC integration, and HTML/JS frontend. Allows user registration and work display through RESTful endpoints.                    | Backend & frontend development             | Apr 2025 – Jun 2025 |
-| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Chrome Selenium with Python and MongoDB. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
 
   <br/>
 
