@@ -27,9 +27,9 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
 | Area                  | Technologies                                            | Proficiency         |
 |-----------------------|---------------------------------------------------------|---------------------|
 | Programming Languages | Python, C++, JavaScript, Java, C#   | Beginner |
-| Frontend              | React, HTML5                | Beginner         |
+| Frontend              | React, HTML5                | Intermediate         |
 | Backend               | Express.js, MongoDB, MariaDB, Firebase, MySQL                 | Beginner         |
-| Tools & Platforms     | Git, GitHub, Markdown      | Beginner         |
+| Tools & Platforms     | Git, GitHub, Markdown      | Intermediate         |
   
 
   <br/>
