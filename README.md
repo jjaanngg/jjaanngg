@@ -26,10 +26,10 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
 
 | Area                  | Technologies                                            | Proficiency         |
 |-----------------------|---------------------------------------------------------|---------------------|
-| Programming Languages | Python, C++, JavaScript(ES6+)   | Intermediate |
-| Frontend              | React, HTML5, Axios, CSS3                | Intermediate         |
+| Programming Languages | Python, C++, JavaScript(ES6+), TypeScript   | Intermediate |
+| Frontend              | React, HTML5, Axios, CSS3, React Native                | Intermediate         |
 | Intermediate               | Express.js, MongoDB, MariaDB, Firebase, Mongoose                 | Beginner         |
-| Tools & Platforms     | Git, GitHub, Vercel, Render, MongoDB Atlas      | Intermediate         |
+| Tools & Platforms     | Git, GitHub, Vercel, Render, MongoDB Atlas, Docker, Android Studio,       | Intermediate         |
   
 
   <br/>
