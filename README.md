@@ -95,9 +95,6 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jw19" alt="Solved.ac Profile"/>
       </a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaanngg&layout=compact&theme=tokyonight" height="180em" width="100%"/>
-    </td>
   </tr>
 </table>
 <br/>
