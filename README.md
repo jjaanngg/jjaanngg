@@ -66,8 +66,6 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
   <br/>
 
   ## 🍀 Problem Solving Platform
-  [Baekjoon] (https://www.acmicpc.net/user/jw19)
-  
   [solved.ac] (https://solved.ac/profile/jw19)
   
   [Codeforces] (https://codeforces.com/profile/ljw.jang05)
@@ -84,20 +82,4 @@ Today, I'm working toward becoming a full-stack developer who can integrate AI w
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           </div>
     </div>
-    <br/>
-
-
-  ## 🍀 GitHub & Baekjoon Stats
-   <table>
-  <tr>
-    <td>
-      <a href="https://solved.ac/jw19">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jw19" alt="Solved.ac Profile"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<br/>
-
-
 </div>
