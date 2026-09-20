@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="./banner.png" width="100%" alt="Jangwon Lee" />
-</div>
-
-<br/>
+# Jangwon Lee
 
 I care about finishing what I start, and about building things that solve a problem someone actually has — not just things that demonstrate a skill.
 
@@ -94,5 +90,3 @@ Dankook University — Software Science (Mar 2024 – Present)
 [solved.ac](https://solved.ac/profile/jw19) · [Codeforces](https://codeforces.com/profile/ljw.jang05) · [AtCoder](https://atcoder.jp/users/jw19)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjaanngg&show_icons=true&hide_border=true&title_color=0F8477&icon_color=0F8477&text_color=8B93A7&bg_color=14171F" width="48%" />
