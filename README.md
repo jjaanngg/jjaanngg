@@ -1,85 +1,98 @@
-<div>
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Jangwon%20Lee&fontSize=65" 
-    width="100%"
-  />
-
-  
-  ## Hi, I'm Jangwon Lee, a full-stack developer who values **three things**:
-  1. **Always moving forward**
-  2. **Getting the details right**
-  3. **Finding joy in building what truly matters**
-<br/>
-
-
-  I was first introduced to programming in middle school through a visual coding platform called Entry. What began as a simple classroom activity quickly sparked a deeper curiosity about how things worked behind the scenes—how blocks became logic, and how that logic turned into something real.
-
-Since then, I’ve pursued software development with both meticulous attention to detail and a strong sense of responsibility. I’m not someone who skims over things—I dive deep, verify thoroughly, and make sure every step is solid before moving on.
-
-What drives me most is the process of building and structuring a project from scratch to keeping everything and everyone on track. Whether I’m collaborating or leading a team, I actively step up to coordinate, align, and ensure no one is left behind. While many shy away from the pressure of leading, I find energy in it. I enjoy taking ownership, supporting my teammates, and balancing both momentum and stability in any project.
-
-Today, I'm working toward becoming a full-stack developer who can integrate AI where it matters most—to build systems that are not only efficient and maintainable, but meaningful. From exploring basic logic to understanding real-world architecture, I always aim to go one step deeper. I believe in writing code that not only works, but endures. And I’m excited to keep learning through hands-on experience.
-
-  <br/>
-   <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🍀 Skills </h2>
-
-| Area                  | Technologies                                            | Proficiency         |
-|-----------------------|---------------------------------------------------------|---------------------|
-| Programming Languages | Python, C++, JavaScript(ES6+), TypeScript   | Intermediate |
-| Frontend              | React, HTML5, Axios, CSS3, React Native                | Intermediate         |
-| Intermediate               | Express.js, MongoDB, MariaDB, Firebase, Mongoose                 | Beginner         |
-| Tools & Platforms     | Git, GitHub, Vercel, Render, MongoDB Atlas, Docker, Android Studio,       | Intermediate         |
-  
-
-  <br/>
-
-  ## 🍀 Projects
-  | **Project**                   | **Description**                                                                                                                                                                                | **Role**                                   | **Duration**        |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- |
-| **Farm Subscription Platform** | A farm subscription and crop management system. Designed and implemented a data management system for tracking subscription information of individual farmers. Utilized **Firebase Realtime Database** to store and synchronize subscriber data in real-time across devices. | Firebase schema design | May 2025         |
-| **Task Manager**                 | Java-based member and work management system with DTO pattern, JDBC integration, and HTML/JS frontend. Allows user registration and work display through RESTful endpoints.                    | Backend & frontend development             | Apr 2025 – Jun 2025 |
-| **PS Auto Creator**               | An automated Baekjoon group practice generator using Solved.ac API and Chrome Selenium with Python and MongoDB. Creates tier-based problem sets weekly and uploads them to a BOJ group page.                                  | Full logic development | May 2025 – Present |
-
-<br/>
-
-  ## 🍀 Experience 
-  ### Executive Member - Operating Team in Software & Algorithm Club(SWAG) | Mar 2024 - Jun 2025
-  - Led weekly Data Structure seminars by preparing materials and mentoring one assigned group of members
-  - Designed and delivered two times for the Programming Track(basic language level) focused on C language fundamentals
-  - Created and managed the official Notion page of 3rd generation for systematic operation
-  - Participated in club branding by designing stickers and assisting with event operations
-
-  <br/>
-
-  ### Full-time Member in Expotential | Apr 2025 - Current
-  - Participated in multiple company projects, including roles in planning, research, and real-time team leader for about a month
-  - Supported an internal employee's Toeic Speaking exam preparation, resulting in measurable performance improvemnet
-  - Contributed to academic preparation initiatives by designing mock test sets for university-level Probability & Statistics and Computer Architecture subjects
-
-
-  <br/>
-
-  ## 🍀 Education
-  Undergraduate, Software Science, Dankook University (Mar 2024 - Present)
-
-  <br/>
-
-  ## 🍀 Problem Solving Platform
-  [solved.ac] (https://solved.ac/profile/jw19)
-  
-  [Codeforces] (https://codeforces.com/profile/ljw.jang05)
-  
-  [Atcoder] (https://atcoder.jp/users/jw19)
-  
-  <br/>
-
-   <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Collaboration </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          </div>
-    </div>
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Jangwon Lee" />
 </div>
+
+<br/>
+
+I care about finishing what I start, and about building things that solve a problem someone actually has — not just things that demonstrate a skill.
+
+I was introduced to programming through Entry in middle school. Block-based logic turned into curiosity about what was happening underneath, and that curiosity hasn't really stopped since.
+
+I'm still figuring out exactly what kind of developer I want to be. What I do know: building [ISIG](#featured-project) was the most engaged I've been in a project so far, and it's sharpened a specific interest — not AI as a feature to bolt on, but AI applied where it makes a product genuinely more useful.
+
+- 🔭 Returning to my 3rd year of study soon, targeting internship applications for the second half of 2027
+- 🌱 Exploring how AI fits meaningfully into real, usable products
+- 📫 [ljw.jang05@gmail.com](mailto:ljw.jang05@gmail.com)
+
+---
+
+## Featured Project
+
+### [ISIG](https://isig.vercel.app) — AI-powered handoff documentation tool
+
+Most work that gets learned by doing is hard to explain in words. When the person who knows how something works leaves, the knowledge usually leaves with them — the handoff notes people manage to write are almost always incomplete.
+
+ISIG interviews you. You describe your task in plain language, the AI asks the follow-up questions a good manager would (what's the exception case, what's easy to get wrong, what comes next), and the conversation becomes a checklist document someone else can actually execute from — not just read.
+
+<!-- 여기에 실제 ISIG 스크린샷 하나 넣으세요. 예: <img src="./isig-screenshot.png" width="100%" /> -->
+
+**What it does**
+- Conversational interview that adapts its next question to what you just said, instead of a fixed form
+- Auto-generates a structured, checklist-style handoff doc from the conversation
+- Shareable links, in-place editing, print/PDF export with traceable watermarking
+- Google auth with per-user data isolation via Postgres Row Level Security
+
+**Stack**: Next.js (App Router) · Supabase (Postgres, Auth, RLS) · Google Gemini API · Vercel
+
+**Engineering decisions worth mentioning**
+- Every table is RLS-locked to its owner by default; the one public read path (shared doc links) goes through a single-purpose `SECURITY DEFINER` function instead of opening the table
+- API routes verify the Supabase session token server-side — the AI endpoints aren't just gated by a login screen
+- Built and iterated entirely from a browser-based dev environment (GitHub Codespaces), including chasing down a mid-development model deprecation and rebuilding the auth flow around a repo migration mid-project
+
+---
+
+## Other Projects
+
+| Project | Description | Role |
+|---|---|---|
+| **Farm Subscription Platform** | Subscription & crop management system with real-time sync across devices | Firebase schema design |
+| **Task Manager** | Java member/work management system — DTO pattern, JDBC, REST endpoints | Backend & frontend |
+| **PS Auto Creator** | Auto-generates tiered Baekjoon problem sets weekly via Solved.ac API + Selenium, posts to a BOJ group | Full logic development |
+
+---
+
+## Skills
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0F8477?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0F8477?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0F8477?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0F8477?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-14171F?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-14171F?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-14171F?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-14171F?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Supabase-14171F?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-14171F?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-14171F?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Firebase-14171F?style=flat-square&logo=firebase&logoColor=FFCA28" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-14171F?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-14171F?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Vercel-14171F?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+## Experience
+
+**Software & Algorithm Club (SWAG)** — Executive Member, Operating Team · Mar 2024 – Jun 2025
+Ran weekly data structures seminars for an assigned group; designed and delivered two rounds of a beginner C track; built and maintained the club's Notion operating system for the 3rd generation.
+
+**Expotential** — Full-time Member · Apr 2025 – Present
+Rotated through planning and research on multiple client projects; acted as interim team lead for about a month.
+
+## Education
+
+Dankook University — Software Science (Mar 2024 – Present)
+
+## Problem Solving
+
+[solved.ac](https://solved.ac/profile/jw19) · [Codeforces](https://codeforces.com/profile/ljw.jang05) · [AtCoder](https://atcoder.jp/users/jw19)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=jjaanngg&show_icons=true&hide_border=true&title_color=0F8477&icon_color=0F8477&text_color=8B93A7&bg_color=14171F" width="48%" />
