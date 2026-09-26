@@ -14,7 +14,7 @@ I'm still figuring out exactly what kind of developer I want to be. What I do kn
 
 ## Featured Project
 
-### [ISIG](https://isig.vercel.app) — AI-powered handoff documentation tool
+### [ISIG](https://resplendent-dodol-5e10ec.netlify.app/) — AI-powered handoff documentation tool
 
 Most work that gets learned by doing is hard to explain in words. When the person who knows how something works leaves, the knowledge usually leaves with them — the handoff notes people manage to write are almost always incomplete.
 
