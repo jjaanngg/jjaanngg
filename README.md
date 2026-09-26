@@ -28,7 +28,7 @@ ISIG interviews you. You describe your task in plain language, the AI asks the f
 - Shareable links, in-place editing, print/PDF export with traceable watermarking
 - Google auth with per-user data isolation via Postgres Row Level Security
 
-**Stack**: Next.js (App Router) · Supabase (Postgres, Auth, RLS) · Google Gemini API · Vercel
+**Stack**: Next.js (App Router) · Supabase (Postgres, Auth, RLS) · Google Gemini API · Netlify
 
 **Engineering decisions worth mentioning**
 - Every table is RLS-locked to its owner by default; the one public read path (shared doc links) goes through a single-purpose `SECURITY DEFINER` function instead of opening the table
@@ -70,7 +70,7 @@ ISIG interviews you. You describe your task in plain language, the AI asks the f
 <p>
   <img src="https://img.shields.io/badge/Git-14171F?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Docker-14171F?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Vercel-14171F?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-14171F?style=flat-square&logo=netlify&logoColor=00C7B7" />
 </p>
 
 ## Experience
@@ -88,5 +88,3 @@ Dankook University — Software Science (Mar 2024 – Present)
 ## Problem Solving
 
 [solved.ac](https://solved.ac/profile/jw19) · [Codeforces](https://codeforces.com/profile/ljw.jang05) · [AtCoder](https://atcoder.jp/users/jw19)
-
----
