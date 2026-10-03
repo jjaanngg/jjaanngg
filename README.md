@@ -4,7 +4,7 @@
 
 Software Science @ Dankook University · Applying for internships in H2 2027
 
-📫 [ljw.jang05@gmail.com](mailto:ljw.jang05@gmail.com) · 📄 [Portfolio (Notion)](NOTION_PORTFOLIO_LINK) · ✍️ [Blog](https://manor-1.tistory.com/)
+📫 [ljw.jang05@gmail.com](mailto:ljw.jang05@gmail.com) · 📄 [Portfolio (Notion)](https://app.notion.com/p/175baeee09d480b58b89dfb6dc1bce54?source=copy_link) · ✍️ [Blog](https://manor-1.tistory.com/)
 
 ---
 
