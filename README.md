@@ -20,7 +20,7 @@ I started programming with Entry in middle school. Curiosity about what was unde
 
 ## Featured Project
 
-### [ISIG](https://resplendent-dodol-5e10ec.netlify.app/) — AI-powered handoff documentation tool
+### [ISIG](https://baro-isig.netlify.app/) — AI-powered handoff documentation tool
 
 When the person who knows how something works leaves, the knowledge usually leaves with them, and the notes they write are almost always incomplete.
 
